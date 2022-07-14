@@ -1,0 +1,9 @@
+/* README
+*  Programmer: Mark Crapser
+*  countstring is an example program from Kochan, Stephan, "Programming in C
+*  3rd edition", Sams Publishing. Page 199.
+*       Create a string terminated by \0, then count the number of characters,
+*  excluding '\0'.
+*
+*/
+
