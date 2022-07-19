@@ -8,6 +8,8 @@
  *  Initial editing: README, countstring.c makefile.
  *  Initial git setup.
  *
+ * 07/14/2022
+ *   Done
  */
 
 #include <stdio.h>
